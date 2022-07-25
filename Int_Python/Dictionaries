@@ -7,3 +7,19 @@ ind_ger=countries.index("germany")
 
 # Use ind_ger to print out capital of Germany
 print(capitals[ind_ger])
+
+# Definition of dictionary
+europe = {'spain':'madrid', 'france':'paris', 'germany':'bonn',
+          'norway':'oslo', 'italy':'rome', 'poland':'warsaw',
+          'australia':'vienna' }
+print(europe['france'])
+# Update capital of germany
+europe['germany']='berlin'
+print(europe)
+
+# Remove australia
+del(europe['australia'])
+
+# Print europe
+print(europe)
+
