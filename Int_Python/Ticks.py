@@ -1,3 +1,5 @@
+import matplotlib as plt
+
 # Scatter plot
 plt.scatter(gdp_cap, life_exp)
 
