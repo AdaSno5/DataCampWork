@@ -1,3 +1,6 @@
+import numpy as np
+import pandas as pd
+
 # numpy and matplotlib imported, seed set
 
 # Simulate random walk 500 times
