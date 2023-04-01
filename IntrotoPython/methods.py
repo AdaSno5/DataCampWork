@@ -5,7 +5,7 @@ place_up='POOLHOUSE'
 # Use upper() on place: place_up
 str.upper(place_up)
 
-# Print out place and place_up
+# Print out place and place_up#
 print(place)
 print(place_up)
 
